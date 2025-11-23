@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://66.media.tumblr.com/6cbb91389aabc078d44b0b12b5370141/tumblr_pwzrvbucUZ1si4jeeo7_500.gif" />
+  <img src="https://i.pinimg.com/originals/23/c9/a3/23c9a31478aeff806094f1b7a556d451.gif" />
 </p>
 
 <h1 align="center">Opa, eu sou  o Guigo 👋</h1>
