@@ -17,6 +17,12 @@
 
 
 ## 📫 Contato
+<p align="center">
+  <a href="https://www.instagram.com/guicastrr/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show_icons=true&theme=radical)
 
