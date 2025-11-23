@@ -10,7 +10,7 @@
 </h3>
 
 - 🔭 Estudante do curso de  **Bacharelado em Sistemas de Informação (IFNMG - Campus Januária)**
-- 🌱 Atualmente, stou aprendendo sobre **Estrutura de Dados I, Linguagem C**
+- 🌱 Atualmente aprendendo **Estrutura de Dados I, Linguagem C**
 - 💬 Pergunte-me sobre **Portugol online (única coisa que aprendi até agorakkk)**
 
   
