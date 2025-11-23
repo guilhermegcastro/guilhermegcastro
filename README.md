@@ -12,17 +12,13 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=portugol,c)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=geany,git,github)](https://skillicons.dev)<br><br>
+
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guigasgdc@gmail.com)](mailto:{SeuEmail})
-
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=radical)
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show_icons=true&theme=radical)
 
 
  
