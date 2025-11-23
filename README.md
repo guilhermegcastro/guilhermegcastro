@@ -19,6 +19,8 @@
 ## 📫 Contato
   <a href="https://www.instagram.com/guicastrr/">
     <img src="https://skillicons.dev/icons?i=instagram" />
+     <a href="https://discord.com/users/440133094364938277">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 
 
