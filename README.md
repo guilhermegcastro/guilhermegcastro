@@ -33,7 +33,6 @@
   Sobre Mim:
 </h3>
 
-- 🔭 Estudante do curso de  **Bacharelado em Sistemas de Informação (IFNMG - Campus Januária)**
 - 🌱 Atualmente aprendendo **Estrutura de Dados I, Linguagem C**
 - 💬 Pergunte-me sobre **Portugol online (única coisa que aprendi até agorakkk)**
 
