@@ -24,7 +24,7 @@
   </a>
 
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show_icons=true&theme=radical)
+![guilhermegcastro's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show_icons=true&theme=radical)
 
 
  
