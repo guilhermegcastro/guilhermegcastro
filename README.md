@@ -24,7 +24,7 @@
   </a>
 
 
-![guilhermegcastro's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show_icons=true&theme=radical)
+![Guca's stats](https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show=reviews)
 
 
  
