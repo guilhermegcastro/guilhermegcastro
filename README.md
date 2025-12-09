@@ -7,8 +7,7 @@
 <h1 align="center">Opa, eu sou o Guca 👋</h1>
 
 <p align="center">
-  💻 Estudante de Sistemas de Informação | 🏢 IFNMG - Campus Januária
-</p><br><br>
+  💻 Estudante de Sistemas de Informação | 🏢 IFNMG 
 
 
 ## 🚀 Linguagens de Programação
