@@ -44,9 +44,9 @@ Aqui estão as tecnologias e ferramentas que estou estudando e utilizando:
 ### 📊 Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegcastro&layout=compact&theme=dark"/>
 </div>
 
 <br />
