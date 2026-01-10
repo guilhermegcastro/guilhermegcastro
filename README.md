@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/32/8b/d0/328bd0d37b0b69784258b055bed1620a.jpg" width="200" style="border-radius: 100%;" alt="Guca Profile Pic"/>
+  <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" width="300" style="border-radius: 100%;" alt="Guca Profile Pic"/>
 
   <h1>Opa, eu sou o Guca! 👋</h1>
   
