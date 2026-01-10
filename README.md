@@ -41,16 +41,6 @@ Aqui estão as tecnologias e ferramentas que estou estudando e utilizando:
 
 <br />
 
-### 📊 Github Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegcastro&layout=compact&theme=dark"/>
-</div>
-
-<br />
-
 ---
 <p align="center">
   <i>Made with 💜 and lots of coffee by Guca © 2026</i>
