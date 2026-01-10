@@ -57,5 +57,5 @@ Aqui estão as tecnologias e ferramentas que estou estudando e utilizando:
 
 ---
 <p align="center">
-  <i>Feito com 💜 e muito café por Guca</i>
+  <i>Made with 💜 and lots of coffee by Guca © 2026</i>
 </p>
