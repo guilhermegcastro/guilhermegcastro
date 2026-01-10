@@ -36,7 +36,10 @@
 Aqui estão as tecnologias e ferramentas que estou estudando e utilizando:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,geany,python,vscode,git,github,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux&perline=6" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Geany-333333?style=for-the-badge&logo=geany&logoColor=white" height="40" alt="Geany Badge"/>
 </div>
 
 <br />
