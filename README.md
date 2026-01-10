@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/85/ab/c5/85abc523340052243f560f381a579c51.gif" width="500" style="border-radius: 100%;" alt="Guca Profile Pic"/>
+  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/travoltamatrix.gif" width="500" style="border-radius: 100%;" alt="Guca Profile Pic"/>
 
   <h1>Opa, eu sou o Guca! 👋</h1>
   
