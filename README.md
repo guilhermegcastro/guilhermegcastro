@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/gallery/confused-travolta-matrix-hag0SCz" width="500" style="border-radius: 100%;" alt="Guca Profile Pic"/>
+  <img src="https://i.pinimg.com/originals/e5/3f/29/e53f29e50ff4c370473980696b1c8913.gif" width="500" style="border-radius: 100%;" alt="Guca Profile Pic"/>
 
   <h1>Opa, eu sou o Guca! 👋</h1>
   
