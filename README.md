@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/travoltamatrix.gif" width="600" style="border-radius: 100%;" alt="Guca Profile Pic"/>
+  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/travoltamatrix.gif" width="600" style="border-radius: 100%;" alt="Guica Profile Pic"/>
 
-  <h1>Opa, eu sou o Guca! 👋</h1>
+  <h1>Opa, eu sou o Guica! 👋</h1>
   
   <p>
     💻 <b>Estudante de Sistemas de Informação - IFNMG</b>
@@ -46,5 +46,5 @@ Aqui estão as tecnologias e ferramentas que estou estudando e utilizando:
 
 ---
 <p align="center">
-  <i>Made with 💜 and lots of coffee by Guca © 2026</i>
+  <i>Made with 💜 and lots of coffee by Guica © 2026</i>
 </p>
