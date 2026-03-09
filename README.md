@@ -46,5 +46,5 @@ Aqui estão as tecnologias e ferramentas que estou estudando e utilizando:
 
 ---
 <p align="center">
-  <i>Made with 💜 and lots of coffee by Guicas © 2026</i>
+  <i>Made with 💜 and lots of coffee by Gui D. Castro © 2026</i>
 </p>
