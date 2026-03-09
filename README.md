@@ -23,10 +23,9 @@
 
 <img align="right" src="https://i.redd.it/do-you-think-guts-and-the-penitent-one-from-blasphemous-v0-yd20bst4eped1.gif?width=268&auto=webp&s=2023e84efc2b2f3c82c8b9910ac952d5ad2ce546" width="140" />
 
-- 🌱 Atualmente focado em **Estrutura de Dados I**.
+- 🌱 Imerso em **Estrutura de Dados II e Banco de Dados I**.
 - 🧠 Aprendendo e praticando **Linguagem C** e **Python**.
-- 💬 Pergunte-me sobre **Lógica de Programação** (e Portugol, claro kkkk).
-- ⚡ Curiosidade: *Tentando dominar ponteiros antes que eles me dominem.*
+- 💬 Pergunte-me sobre **Lógica de Programação**.
 - 🎯 Objetivo: Me aprofundar em desenvolvimento backend e algoritmos complexos.
 
 <br clear="right"/>
