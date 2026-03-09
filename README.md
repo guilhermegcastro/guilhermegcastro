@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/travoltamatrix.gif" width="600" style="border-radius: 100%;" alt="Guicas Profile Pic"/>
 
-  <h1>Opa, eu sou o Guicas! 👋</h1>
+  <h1>Prazer, me chamo Guilherme! 👋</h1>
   
   <p>
     💻 <b>Estudante de Sistemas de Informação - IFNMG</b>
