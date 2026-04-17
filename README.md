@@ -16,10 +16,9 @@
 
 <img align="right" src="https://i.redd.it/do-you-think-guts-and-the-penitent-one-from-blasphemous-v0-yd20bst4eped1.gif?width=268&auto=webp&s=2023e84efc2b2f3c82c8b9910ac952d5ad2ce546" width="140" />
 
-- 🌱 Imerso em **Estrutura de Dados II e Banco de Dados I**.
+- 🌱 Estudando... **Estrutura de Dados II e Banco de Dados I**.
 - 🧠 Aprendendo e praticando **Linguagem C** e **Python**.
 - 💬 Pergunte-me sobre **Lógica de Programação**.
-- 🎯 Objetivo: Me aprofundar em desenvolvimento backend e algoritmos complexos.
 
 <br clear="right"/>
 
@@ -30,11 +29,6 @@ Aqui estão as tecnologias e ferramentas que estou estudando e utilizando:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux&perline=6" />
   <br/>
-  
-  <img src="https://img.shields.io/badge/Geany-333333?style=for-the-badge&logo=geany&logoColor=white" height="40" alt="Geany Badge"/>
-</div>
-
-<br />
 
 ---
 <p align="center">
