@@ -1,32 +1,58 @@
 <div align="center">
-  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/travoltamatrix.gif" width="600" style="border-radius: 100%;" alt="Guicas Profile Pic"/>
 
-  <h1>Olá, me chamo Guilherme Castro! 👋</h1>
-  
-  <p>
-    💻 <b>Estudante de Sistemas de Informação - IFNMG</b>
-  </p>
+  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/travoltamatrix.gif" width="600" style="border-radius: 100%;" alt="Guilherme Profile Pic"/>
 
-
+  <h1>
+ 
+    Olá, me chamo Guilherme Castro! 👋 
+    <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/deltarune-kris.gif" width="40" alt="Kris pixel icon" />
+  </h1>
+  
+  <p>
+    💻 <b>Estudante de Sistemas de Informação - IFNMG (4º Período)</b>
+  </p>
+  <p>
+    <i>Ambiente de trabalho: Windows 10 & Linux Manjaro</i>
+  </p>
 </div>
 
 <hr />
 
+<img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penitent.gif" width="140" title="Penitent One & Guts" />
 
-<img align="right" src="https://i.redd.it/do-you-think-guts-and-the-penitent-one-from-blasphemous-v0-yd20bst4eped1.gif?width=268&auto=webp&s=2023e84efc2b2f3c82c8b9910ac952d5ad2ce546" width="140" />
+### 🚀 Stack e Domínio
 
+O foco da minha trajetória até aqui foi construir uma fundação técnica sólida. 
+
+*   **O que eu domino:** 
+    *   **Linguagem C**
+    *   **MySQL Workbench**
+*   **Histórico de Conhecimento:**
+    *   **Algoritmos:** Lógica estruturada iniciada em Portugol online.
+    *   **Estrutura de Dados 1 e 2:** Implementação e gerenciamento em C.
+    *   **Banco de Dados 1:** Modelagem e manipulação de dados.
+
+---
+
+### 💻 O que estou aprendendo no momento
+
+*   **Programação Orientada a Objetos:** Utilizando a linguagem Java.
+*   **Teoria dos Grafos:**  -
+*   **Banco de Dados 2:** -
+
+<div align="center">
+  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="180" alt="Isaac coding/frustrated" />
+</div>
 
 <br clear="right"/>
 
-### 🚀 Tech Stack
-
-Tecnologias e ferramentas que estou estudando e utilizando:
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux&perline=6" />
-  <br/>
+  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/tardis_spinning_by_mochimandias_d4ebsyv.gif" width="80" alt="Spinning TARDIS" />
+  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/lis2.gif" width="300" alt="Running Wolves" />
+</div>
 
----
 <p align="center">
-  <i>Made with 💜 and lots of coffee by Guilherme D. Castro © 2026</i>
+  <i>Made with 💜 and lots of coffee by Guilherme D. Castro © 2026</i>
 </p>
