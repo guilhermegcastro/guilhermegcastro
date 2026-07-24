@@ -16,6 +16,7 @@
 
 <hr />
 
+<!-- SEÇÃO 1: STACK E DOMÍNIO COM PENITENTE À DIREITA -->
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penitent.gif" width="140" title="Penitent One" />
 
 ### 🚀 Stack e Domínio
@@ -31,13 +32,15 @@ O foco da minha trajetória até aqui foi construir uma fundação técnica sól
     *   **Estrutura de Dados 1 e 2:** Implementação e gerenciamento em C.
     *   **Banco de Dados 1:** Modelagem e manipulação de dados.
 
+<!-- Tag importante para "limpar" o alinhamento da imagem anterior -->
 <br clear="right"/>
 
 ---
 
-### 💻 O que estou aprendendo no momento
+<!-- SEÇÃO 2: O QUE ESTOU APRENDENDO COM ISAAC À DIREITA -->
+<img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="140" title="Isaac coding" />
 
-<img align="left" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="140" hspace="30" alt="Isaac coding" />
+### 💻 O que estou aprendendo no momento
 
 Aqui estão as disciplinas e tecnologias onde estou efetivamente aplicando código neste semestre:
 
@@ -46,7 +49,8 @@ Aqui estão as disciplinas e tecnologias onde estou efetivamente aplicando códi
     *   **Teoria dos Grafos:** -
     *   **Banco de Dados 2:** -
 
-<br clear="left"/>
+<!-- Tag importante para "limpar" o alinhamento da imagem anterior -->
+<br clear="right"/>
 
 ---
 
