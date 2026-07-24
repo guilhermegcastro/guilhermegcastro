@@ -16,7 +16,6 @@
 
 <hr />
 
-
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penitent.gif" width="140" title="Penitent One" />
 
 ### 🚀 Stack e Domínio
@@ -25,31 +24,41 @@
     *   **Linguagem C**
     *   **MySQL Workbench**
 
-*   **📋 Histórico**
+*   **📋 Histórico** <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penguin-cute.gif" height="28" style="vertical-align: middle;" alt="Gunter the Penguin" />
     *   **Algoritmos:** Lógica estruturada iniciada em Portugol online.
     *   **Estrutura de Dados 1 e 2:** Implementação e gerenciamento em C.
     *   **Banco de Dados 1:** Modelagem e manipulação de dados.
     *   **Além de concluir outras matérias da grade curricular do meu curso:**
-    - Fundamentos da Computação/Sistemas de Informação
-    - Modelos e Paradigmas da Programação
-    - Arquitetura e Organização de Computadores
-    - Sistemas Operacionais.
+        - Fundamentos da Computação/Sistemas de Informação
+        - Modelos e Paradigmas da Programação
+        - Arquitetura e Organização de Computadores
+        - Sistemas Operacionais.
 
 <br clear="right"/>
 
 ---
-
 
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="140" title="Isaac coding" />
 
 ### 📖 O que estou aprendendo no momento
 
 *   **Programação Orientada a Objetos:** Utilizando a linguagem Java.
-    *   **Teoria dos Grafos:** -
-    *   **Banco de Dados 2:** -
-
+*   **Teoria dos Grafos:** -
+*   **Banco de Dados 2:** -
 
 <br clear="right"/>
+
+---
+
+### 👾 Sobre mim (Fora do código)
+
+O pensamento lógico também se alimenta de cultura e hobbies. Quando não estou lidando com código ou trabalhos da faculdade:
+
+*   📚 Leitor, de literatura clássica até fantasia, exploro diversos gêneros da leitura.
+*   🎧 Curto bastante música. Sempre escuto um MPB, rock, ou aquela playlist eclética.
+*   📸 Tenho hobbies de fotografia e desenho.
+*   🎮 Nas horas vagas, provavelmente estou jogando alguma coisa. 
+*   🍻 Sou mais de ficar em casa, mas também gosto de sair com amigos...
 
 ---
 
