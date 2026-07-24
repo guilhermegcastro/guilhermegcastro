@@ -18,23 +18,27 @@
 
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penitent.gif" width="140" title="Penitent One" />
 
-### 🚀 Stack e Domínio
+### 🌟 O que eu domino:
 
-*   **🌟 O que eu domino:** 
-    *   **Linguagem C**
-    *   **MySQL Workbench**
+*   **Linguagem C**
+*   **MySQL Workbench**
+
+<br clear="right"/>
+
+---
 
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penguin-cute.gif" width="140" title="Gunter the Penguin" />
 
-*   **📋 Histórico** 
-    *   **Algoritmos:** Lógica estruturada iniciada em Portugol online.
-    *   **Estrutura de Dados 1 e 2:** Implementação e gerenciamento em C.
-    *   **Banco de Dados 1:** Modelagem e manipulação de dados.
-    *   **Além de concluir outras matérias da grade curricular do meu curso:**
-        - Fundamentos da Computação/Sistemas de Informação
-        - Modelos e Paradigmas da Programação
-        - Arquitetura e Organização de Computadores
-        - Sistemas Operacionais.
+### 📋 Histórico
+
+*   **Algoritmos:** Lógica estruturada iniciada em Portugol online.
+*   **Estrutura de Dados 1 e 2:** Implementação e gerenciamento em C.
+*   **Banco de Dados 1:** Modelagem e manipulação de dados.
+*   **Além de concluir outras matérias da grade curricular do meu curso:**
+    - Fundamentos da Computação/Sistemas de Informação
+    - Modelos e Paradigmas da Programação
+    - Arquitetura e Organização de Computadores
+    - Sistemas Operacionais.
 
 <br clear="right"/>
 
