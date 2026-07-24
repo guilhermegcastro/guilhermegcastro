@@ -37,11 +37,14 @@ O foco da minha trajetória até aqui foi construir uma fundação técnica sól
 
 ### 💻 O que estou aprendendo no momento
 
-<img align="left" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="200" style="margin-right: 20px;" alt="Isaac coding" />
+<img align="left" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="140" hspace="30" alt="Isaac coding" />
 
-*   **Programação Orientada a Objetos:** Utilizando a linguagem Java.
-*   **Teoria dos Grafos:** -
-*   **Banco de Dados 2:** -
+Aqui estão as disciplinas e tecnologias onde estou efetivamente aplicando código neste semestre:
+
+*   **Foco Atual:**
+    *   **Programação Orientada a Objetos:** Utilizando a linguagem Java.
+    *   **Teoria dos Grafos:** -
+    *   **Banco de Dados 2:** -
 
 <br clear="left"/>
 
