@@ -16,40 +16,39 @@
 
 <hr />
 
-<!-- SEÇÃO 1: STACK E DOMÍNIO COM PENITENTE À DIREITA -->
+
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penitent.gif" width="140" title="Penitent One" />
 
 ### 🚀 Stack e Domínio
 
-O foco da minha trajetória até aqui foi construir uma fundação técnica sólida. 
-
-*   **O que eu domino:** 
+*   **🌟 O que eu domino:** 
     *   **Linguagem C**
     *   **MySQL Workbench**
 
-*   **Histórico de Conhecimento:**
+*   **📋 Histórico**
     *   **Algoritmos:** Lógica estruturada iniciada em Portugol online.
     *   **Estrutura de Dados 1 e 2:** Implementação e gerenciamento em C.
     *   **Banco de Dados 1:** Modelagem e manipulação de dados.
+    *   **Além de concluir outras matérias da grade curricular do meu curso:**
+    - Fundamentos da Computação/Sistemas de Informação
+    - Modelos e Paradigmas da Programação
+    - Arquitetura e Organização de Computadores
+    - Sistemas Operacionais.
 
-<!-- Tag importante para "limpar" o alinhamento da imagem anterior -->
 <br clear="right"/>
 
 ---
 
-<!-- SEÇÃO 2: O QUE ESTOU APRENDENDO COM ISAAC À DIREITA -->
+
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="140" title="Isaac coding" />
 
-### 💻 O que estou aprendendo no momento
+### 📖 O que estou aprendendo no momento
 
-Aqui estão as disciplinas e tecnologias onde estou efetivamente aplicando código neste semestre:
-
-*   **Foco Atual:**
-    *   **Programação Orientada a Objetos:** Utilizando a linguagem Java.
+*   **Programação Orientada a Objetos:** Utilizando a linguagem Java.
     *   **Teoria dos Grafos:** -
     *   **Banco de Dados 2:** -
 
-<!-- Tag importante para "limpar" o alinhamento da imagem anterior -->
+
 <br clear="right"/>
 
 ---
