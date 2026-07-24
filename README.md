@@ -24,7 +24,9 @@
     *   **Linguagem C**
     *   **MySQL Workbench**
 
-*   **📋 Histórico** <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penguin-cute.gif" height="28" style="vertical-align: middle;" alt="Gunter the Penguin" />
+<img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penguin-cute.gif" width="140" title="Gunter the Penguin" />
+
+*   **📋 Histórico** 
     *   **Algoritmos:** Lógica estruturada iniciada em Portugol online.
     *   **Estrutura de Dados 1 e 2:** Implementação e gerenciamento em C.
     *   **Banco de Dados 1:** Modelagem e manipulação de dados.
