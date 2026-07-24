@@ -35,11 +35,9 @@ O foco da minha trajetória até aqui foi construir uma fundação técnica sól
 
 ---
 
-<img align="left" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="140" style="margin-right: 15px;" alt="Isaac coding" />
-
 ### 💻 O que estou aprendendo no momento
 
-Aqui estão as disciplinas e tecnologias onde estou efetivamente aplicando código neste semestre:
+<img align="left" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="200" style="margin-right: 20px;" alt="Isaac coding" />
 
 *   **Programação Orientada a Objetos:** Utilizando a linguagem Java.
 *   **Teoria dos Grafos:** -
@@ -56,6 +54,5 @@ Aqui estão as disciplinas e tecnologias onde estou efetivamente aplicando códi
 <br/>
 
 <p align="center">
-  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/tardis_spinning_by_mochimandias_d4ebsyv.gif" width="25" style="vertical-align: middle;" alt="Spinning TARDIS" /> 
   <i>Made with 💜 and lots of coffee by Guilherme D. Castro © 2026</i>
 </p>
