@@ -73,7 +73,11 @@ O pensamento lógico também se alimenta de cultura e hobbies. Quando não estou
 </div>
 
 <br/>
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mkagapwtzrz6nehriqjxzlgakq&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true">
+  </a>
+</p>
 <p align="center">
   <i>Made with 💜 and lots of coffee by Guilherme D. Castro © 2026</i>
 </p>
