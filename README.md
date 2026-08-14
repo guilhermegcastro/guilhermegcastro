@@ -67,17 +67,17 @@ O pensamento lógico também se alimenta de cultura e hobbies. Quando não estou
 *   🍻 Sou mais de ficar em casa, mas também gosto de sair com amigos...
 
 ---
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mkagapwtzrz6nehriqjxzlgakq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/lis2.gif" width="600" alt="Running Wolves" />
 </div>
 
 <br/>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mkagapwtzrz6nehriqjxzlgakq&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true">
-  </a>
-</p>
 <p align="center">
   <i>Made with 💜 and lots of coffee by Guilherme D. Castro © 2026</i>
 </p>
