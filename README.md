@@ -18,12 +18,16 @@
 
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penitent.gif" width="140" title="Penitent One" />
 
-### 🌟 O que eu domino:
+### 🌟 Ferramentas que utilizo/estou aprendendo:
 
-*   **Linguagem C**
-*   **MySQL Workbench**
-
-<br clear="right"/>
+<p align="left">
+  <img src="https://jsdelivr.net" height="40" width="40" alt="C" />
+  <img src="https://jsdelivr.net" height="40" width="40" alt="C#" />
+  <img src="https://jsdelivr.net" height="40" width="40" alt="Python" />
+  <img src="https://jsdelivr.net" height="40" width="40" alt="Java" />
+  <img src="https://jsdelivr.net" height="40" width="40" alt="Git" />
+  <img src="https://jsdelivr.net" height="40" width="40" alt="MySQL" />
+</p>
 
 ---
 
