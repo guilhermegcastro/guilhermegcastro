@@ -52,11 +52,10 @@
 
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/raw/main/isaac.gif" width="140" title="Isaac coding" />
 
-### 📖 O que estou aprendendo no momento
+### 📊 GitHub Stats
 
-*   **Programação Orientada a Objetos:** Utilizando a linguagem Java.
-*   **Teoria dos Grafos:** -
-*   **Banco de Dados 2:** -
+<img src="https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegcastro&layout=compact&theme=dark&hide_border=true" width="48%" />
 
 <br clear="right"/>
 
