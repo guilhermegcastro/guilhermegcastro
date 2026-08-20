@@ -67,12 +67,6 @@ O pensamento lógico também se alimenta de cultura e hobbies. Quando não estou
 *   🍻 Sou mais de ficar em casa, mas também gosto de sair com amigos...
 
 ---
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mkagapwtzrz6nehriqjxzlgakq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</p>
-
 <div align="center">
   <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/lis2.gif" width="600" alt="Running Wolves" />
 </div>
