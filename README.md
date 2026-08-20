@@ -54,9 +54,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=guilhermegcastro&show_icons=true&theme=dark&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegcastro&layout=compact&theme=dark&hide_border=true" width="48%" />
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=guilhermegcastro&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=darcula)](https://github-stats-extended.vercel.app/api?username=guilhermegcastro&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=darcula)
 <br clear="right"/>
 
 ---
