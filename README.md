@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cs,java,py,mysql,unity" />
+    <img src="https://skillicons.dev" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 
 O pensamento lógico também se alimenta de cultura e hobbies. Quando não estou lidando com código ou trabalhos da faculdade:
 
-*   📚 Leitor, de literature clássica até fantasia, exploro diversos gêneros da leitura.
+*   📚 Leitor, de literatura clássica até fantasia, exploro diversos gêneros da leitura.
 *   🎧 Curto bastante música. Sempre escuto um MPB, rock, ou aquela playlist eclética.
 *   📸 Tenho hobbies de fotografia e desenho.
 *   🎮 Nas horas vagas, provavelmente estou jogando alguma coisa. 
