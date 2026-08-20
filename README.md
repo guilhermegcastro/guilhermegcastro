@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/travoltamatrix.gif" width="600" style="border-radius: 100%;" alt="Guilherme Profile Pic"/>
+  <img src="https://github.com" width="600" style="border-radius: 100%;" alt="Guilherme Profile Pic"/>
 
   <h1>
-    <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/deltarune-kris.gif" height="36" style="vertical-align: bottom;" alt="Kris pixel icon" /> 
+    <img src="https://github.com" height="36" style="vertical-align: bottom;" alt="Kris pixel icon" /> 
     Olá, me chamo Guilherme Castro! 👋 
   </h1>
   
@@ -16,28 +16,23 @@
 
 <hr />
 
-<img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penitent.gif" width="140" title="Penitent One" />
+<img align="right" src="https://github.com" width="140" title="Penitent One" />
 
-<table width="100%" border="0">
-  <tr>
-    <td valign="top" width="70%">
-      <h3>🌟 Ferramentas que estou aprendendo:</h3>
-      <br/>
-      <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,c,cs,java,py,mysql,unity" />
-        </a>
-      </p>
-    </td>
-    <td valign="top" align="right" width="30%">
-      <img src="https://github.com" width="140" title="Penitent One" />
-    </td>
-  </tr>
-</table>
+### 🌟 Ferramentas que estou aprendendo:
+
+<br/>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cs,java,py,mysql,unity" />
+  </a>
+</p>
+
+<br clear="right">
 
 ---
 
-<img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penguin-cute.gif" width="140" title="Gunter the Penguin" />
+<img align="right" src="https://github.com" width="140" title="Gunter the Penguin" />
 
 ### 📋 Histórico
 
@@ -50,11 +45,11 @@
     - Arquitetura e Organização de Computadores
     - Sistemas Operacionais.
 
-<br clear="right"/>
+<br clear="right">
 
 ---
 
-<img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/isaac.gif" width="140" title="Isaac coding" />
+<img align="right" src="https://github.com" width="140" title="Isaac coding" />
 
 ### 📖 O que estou aprendendo no momento
 
@@ -62,7 +57,7 @@
 *   **Teoria dos Grafos:** -
 *   **Banco de Dados 2:** -
 
-<br clear="right"/>
+<br clear="right">
 
 ---
 
@@ -70,7 +65,7 @@
 
 O pensamento lógico também se alimenta de cultura e hobbies. Quando não estou lidando com código ou trabalhos da faculdade:
 
-*   📚 Leitor, de literatura clássica até fantasia, exploro diversos gêneros da leitura.
+*   📚 Leitor, de literature clássica até fantasia, exploro diversos gêneros da leitura.
 *   🎧 Curto bastante música. Sempre escuto um MPB, rock, ou aquela playlist eclética.
 *   📸 Tenho hobbies de fotografia e desenho.
 *   🎮 Nas horas vagas, provavelmente estou jogando alguma coisa. 
@@ -78,7 +73,7 @@ O pensamento lógico também se alimenta de cultura e hobbies. Quando não estou
 
 ---
 <div align="center">
-  <img src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/lis2.gif" width="600" alt="Running Wolves" />
+  <img src="https://github.com" width="600" alt="Running Wolves" />
 </div>
 
 <br/>
