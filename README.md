@@ -18,17 +18,15 @@
 
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penitent.gif" width="140" title="Penitent One" />
 
-### 🌟 Ferramentas que utilizo/estou aprendendo:
+### 🌟 Ferramentas que estou aprendendo:
 
-<p align="left">
-  <img src="https://jsdelivr.net" height="40" width="40" alt="C" />
-  <img src="https://jsdelivr.net" height="40" width="40" alt="C#" />
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Python" />
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Java" />
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Git" />
-  <img src="https://jsdelivr.net" height="40" width="40" alt="MySQL" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cs,java,py, mysql, unity" />
+  </a>
 </p>
 
+<br clear="right"/>
 ---
 
 <img align="right" src="https://github.com/guilhermegcastro/guilhermegcastro/blob/main/penguin-cute.gif" width="140" title="Gunter the Penguin" />
